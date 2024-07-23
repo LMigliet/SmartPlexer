@@ -3,7 +3,6 @@
 [https://www.nature.com/articles/s42003-023-05235-w]
 
 
-
 Welcome to the Smart-Plexer repository! This repository contains the code used for the development and validation of the Smart-Plexer framework, as described in our paper. Smart-Plexer is designed to optimize the selection of primer mixes for multiplex PCR assays through a combination of empirical testing and in-silico simulations.
 
 ## Introduction
