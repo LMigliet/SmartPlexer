@@ -2,6 +2,10 @@
 
 [https://www.nature.com/articles/s42003-023-05235-w]
 
+There is also a patent related to this work at Imperial College London:
+- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC]
+- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC]
+
 Welcome to the Smart-Plexer repository! This repository contains the code used for the development and validation of the Smart-Plexer framework, as described in our paper. Smart-Plexer is designed to optimize the selection of primer mixes for multiplex PCR assays through a combination of empirical testing and in-silico simulations.
 
 ## Introduction
