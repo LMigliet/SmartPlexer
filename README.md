@@ -1,8 +1,6 @@
 # Smart-Plexer: A Framework for Hybrid Development of Multiplex PCR Assays
 
-[https://www.nature.com/articles/s42003-023-05235-w]
-
-PLEASE USE THE "smartplexer_paper_nature" brach if you want to see the code reported in the nature paper.
+Please use the branch: "smartplexer_paper_nature" if you want to see the code reported in the nature paper [https://www.nature.com/articles/s42003-023-05235-w].
 
 Welcome to the Smart-Plexer repository! This repository contains the code used for the development and validation of the Smart-Plexer framework, as described in our paper. Smart-Plexer is designed to optimize the selection of primer mixes for multiplex PCR assays through a combination of empirical testing and in-silico simulations.
 
