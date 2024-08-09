@@ -11,12 +11,12 @@ The Smart-Plexer framework is developed to streamline the development of multipl
 ## Features
 
 - **Curve Fitting**: Fits the PCR amplification curves using a 5-parameter sigmoid model.
-- **Feature Extraction**: Extracts features from the amplification curves, including the ‘c’ parameter and additional robust features.
+- **Feature Extraction**: Extract features from the amplification curves, including the ‘c’ parameter and additional robust features.
 - **Distance Calculation**: Calculates distances between amplification curves using various metrics.
 - **Assay Selection**: Ranks and selects optimal multiplex PCR assays based on feature distances.
 - **Empirical Validation**: Validates selected assays through wet-lab experiments.
 
 Disclaimer:
 There are two patents related to this work at Imperial College London:
-- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC]
-- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC]
+- [Patent 1 - AI for PCR data analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC)
+- [Patent 2 - Smart-Plexer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC)
