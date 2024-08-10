@@ -1,0 +1,9 @@
+pandas==2.0.3
+numpy==1.24.3
+pathlib==1.0.1
+dataclasses==0.6
+itertools==8.11.0
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+keras==2.11.0
