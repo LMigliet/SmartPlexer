@@ -10,7 +10,7 @@ By organizing the data hierarchically where:
     - intensities of amplification curve
 """
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import List, Optional
 
 
@@ -24,8 +24,8 @@ class Param:
 class Well:
     id: int
     type: str  # 'inlier' or 'outlier'
-    intensities: List[float]
-    params: List[Param]
+    intensities: List[float] = field(repr=False)
+    params: List[Param] = field(repr=False)
 
 
 @dataclass
@@ -34,7 +34,7 @@ class Panel:
     primermix: str
     target: str
     assay: str
-    wells: List[Well]
+    wells: List[Well] = field(repr=False)
     target_concentration: Optional[float] = None
 
 
