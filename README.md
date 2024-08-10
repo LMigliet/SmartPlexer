@@ -18,5 +18,5 @@ The Smart-Plexer framework is developed to streamline the development of multipl
 
 Disclaimer:
 There are two patents related to this work at Imperial College London:
-- [Patent 1 - AI for PCR data analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC)
-- [Patent 2 - Smart-Plexer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC)
+- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC]
+- [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC]
