@@ -82,7 +82,7 @@ Once the experiment data is loaded, the next step is to generate all possible co
 
 1. Ensure your experiment data is correctly formatted and stored in the specified directory.
 2. Update the `experiment_ids` list with the IDs of your experiments.
-3. Run the code to generate assay combinations and analyze the results.
+3. Run the code to generate assay combinations and RANK the results. It will also plot the combinations
 
 ## Conclusion
 
