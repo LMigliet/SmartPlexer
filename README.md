@@ -4,6 +4,12 @@ Please use the branch: "smartplexer_paper_nature" if you want to see the code re
 
 Welcome to the Smart-Plexer repository! This repository contains the code used for the development and validation of the Smart-Plexer framework, as described in our paper. Smart-Plexer is designed to optimize the selection of primer mixes for multiplex PCR assays through a combination of empirical testing and in-silico simulations.
 
+## How It Works
+
+You should first use the [AdaptiveFilter Algorithm](https://github.com/LMigliet/AdaptiveFiltering) to get the processed dataframes and the metadata needed.
+
+This impluies that you are extracting data from the fluidigm real-time digital PCR machine. If data have different format please raise an issue. Check the section below and the `test_data` to see the structure.
+
 ## Introduction
 
 The Smart-Plexer framework is developed to streamline the development of multiplex PCR assays by combining empirical testing with computer simulations. The framework leverages kinetic inter-target distances among amplification curves to optimize the selection of primer sets for accurate multi-pathogen identification. Initially, the ‘c’ parameter was used as the main feature for optimization. However, we have extended the feature set to include additional robust features that enhance the reliability and accuracy of the assay selection process.
@@ -20,11 +26,6 @@ Disclaimer:
 There are two patents related to this work at Imperial College London:
 - [Patent 1 - AI for PCR data analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:qxL8FJ1GzNcC)
 - [Patent 2 - Smart-Plexer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&sortby=pubdate&citation_for_view=msNVZbcAAAAJ:Tyk-4Ss8FVUC)
-
-
-## How It Works
-
-You should first use the [AdaptiveFilter Algorithm](https://github.com/LMigliet/AdaptiveFiltering) to get the processed dataframes and the metadata needed.
 
 ### Folder Structure
 
@@ -82,7 +83,7 @@ Once the experiment data is loaded, the next step is to generate all possible co
 
 1. Ensure your experiment data is correctly formatted and stored in the specified directory.
 2. Update the `experiment_ids` list with the IDs of your experiments.
-3. Run the code to generate assay combinations and RANK the results. It will also plot the combinations
+3. Run the code to generate assay combinations and analyze the results.
 
 ## Conclusion
 
